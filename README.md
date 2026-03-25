@@ -16,11 +16,10 @@ LottoLegs turns your daily steps into coins to play daily games and climb the le
 ---
 
 ## Screenshots
-<img width="920" height="1600" alt="lottolegs1" src="https://github.com/user-attachments/assets/4bc66eaf-893a-4bb2-9781-9bfc447b59cd" />
-<img width="547" height="950" alt="image" src="https://github.com/user-attachments/assets/cfa5d5ca-3fe3-41fe-b1e0-560f21dfeeaa" />
-<img width="546" height="943" alt="image" src="https://github.com/user-attachments/assets/1d86453f-4f68-40e5-96b7-8a3b03d4160b" />
 
+<img width="250" alt="Home" src="https://github.com/user-attachments/assets/4bc66eaf-893a-4bb2-9781-9bfc447b59cd" /> <img width="250" alt="Game" src="https://github.com/user-attachments/assets/cfa5d5ca-3fe3-41fe-b1e0-560f21dfeeaa" /> <img width="250" alt="Gameplay" src="https://github.com/user-attachments/assets/1d86453f-4f68-40e5-96b7-8a3b03d4160b" />
 
+---
 
 ## Download
 
